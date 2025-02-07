@@ -22,6 +22,7 @@ ruleset=🎥 Netflix,https://raw.githubusercontent.com/blackmatrix7/ios_rule_scr
 ruleset=🎬 HBO MAX,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/HBO/HBO.list
 ruleset=🎵 Spotify,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
 ruleset=📺️ bigolive,https://raw.githubusercontent.com/LuoChen-GT5300/zheteng/refs/heads/main/BIGO%20LIVE.list
+ruleset=📺️ niconico,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Loon/Niconico/Niconico.list
 ruleset=🌍 国外,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Proxy.list
 ruleset=🌍 国外,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
 ruleset=➡️ 国内,[]FINAL
@@ -45,6 +46,7 @@ custom_proxy_group=🎥 Netflix`select`[]DIRECT`[]所有-手动`[]所有-自动`
 custom_proxy_group=🎬 HBO MAX`select`[]DIRECT`[]所有-手动`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]其他-自动`[]REJECT
 custom_proxy_group=🎵 Spotify`select`[]DIRECT`[]所有-手动`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]其他-自动`[]REJECT
 custom_proxy_group=📺️ bigolive`select`[]DIRECT`[]所有-手动`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]其他-自动`[]REJECT
+custom_proxy_group=📺️ niconico`select`[]DIRECT`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]其他-自动`[]REJECT
 custom_proxy_group=🌍 国外`select`[]DIRECT`[]所有-手动`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]其他-自动`[]REJECT
 custom_proxy_group=➡️ 国内`select`[]DIRECT`[]所有-手动`[]所有-自动`[]港台日新韩-自动`[]台日新韩-自动`[]香港-自动`[]台湾-自动`[]日本-自动`[]新加坡-自动`[]韩国-自动`[]美国-自动`[]其他-自动`[]REJECT
 
