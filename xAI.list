@@ -1,6 +1,8 @@
 DOMAIN,grok.com
 DOMAIN,x.ai
 DOMAIN,grokaidownload.com
+DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
