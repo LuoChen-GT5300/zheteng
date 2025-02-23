@@ -1,9 +1,9 @@
-DOMAIN,grok.com
-DOMAIN,x.ai
-DOMAIN,grokaidownload.com
-DOMAIN,copilot.microsoft.com
-DOMAIN,ai.google.dev
-DOMAIN,aistudio.google.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokaidownload.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
