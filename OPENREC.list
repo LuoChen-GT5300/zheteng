@@ -43,5 +43,3 @@ DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
-IP-CIDR,125.6.189.7/32,no-resolve
-IP-CIDR,203.104.209.7/32,no-resolve
